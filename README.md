@@ -10,7 +10,7 @@ Clone the repository
 cd into UnityJDBC_oracle_docker_image folder
 
 ### Step 3.5:
-
+[Download the rpm](https://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index-083047.html) into UnityJDBC_oracle_docker_image
 
 ### Step 4:
 $: docker build -t oracle:unity -f Dockerfile.xe .
